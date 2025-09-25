@@ -46,6 +46,5 @@ Open terminal and try execute some kali linux commands
 
 <img width="860" height="498" alt="image" src="https://github.com/user-attachments/assets/a90dd052-dadc-4c83-acba-c0d073bbbd55" />
 
-
 ### RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
